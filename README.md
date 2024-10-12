@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Angie19950
+- 👋 Hi, I’m Angie Villamil
 - 👀 I’m interested in learning about this program
 - 🌱 I’m currently learning how to create a repository 
 - 💞️ I’m looking to collaborate on new projects 
